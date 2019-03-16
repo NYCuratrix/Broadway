@@ -10,4 +10,15 @@ h1 {
 
 h4 {
   font-size: 18px;
+
+}
+
+.header {
+background-image: url(images/the-flatiron-building.png);
+background-size: auto;
+background-repeat: no-repeat;
+color: white;
+}
+.footer {
+  text-align: left;
 }
